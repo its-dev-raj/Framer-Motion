@@ -11,7 +11,7 @@ const Content = () => {
       }}
     >
       <button className="group relative cursor-pointer  text-gray-400 px-12 py-4 rounded-lg bg-black shadow-[0px_1px_2px_0px_rgba(255,255,255,0.1)_inset, 0px_-1px_2px_0px_rgba(255,255,255,0.1)_inset]  ">
-        Subscribe
+        Subscribe master
         <span className="absolute  inset-x-0 bottom-px bg-gradient-to-r from-trasparent via-cyan-500 to-transparent h-px w-3/4 mx-auto"></span>
         <span className="absolute  opacity-0 group-hover:opacity-100 transition-opacity duration-300 inset-x-0 bottom-px bg-gradient-to-r from-trasparent via-cyan-500 to-transparent h-[4px] w-full mx-auto blur-md"></span>
       </button>
